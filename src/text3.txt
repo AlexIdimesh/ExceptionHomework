@@ -1,0 +1,25 @@
+{ 5noitpecxE ssalc cilbup
+{ noitpecxE sworht )(noitpecxEworhTylmodnar diov citats cilbup    
+;)(modnaR wen = modnar modnaR        
+;)2(tnItxen.modnar = epyTnoitpecxe tni        
+{ )0 == epyTnoitpecxe( fi        
++ " :еинечюлкси онавориренегС"(noitpecxEsdnuoBfOtuOxednIyarrA wen worht            
+;)" noitpecxEsdnuoBfOtuOxednIyarrA "                    
+{ )1 == epyTnoitpecxe( fi esle }        
++ " :еинечюлкси онавориренегС"(noitpecxEretnioPlluN wen worht            
+;)"noitpecxEretnioPlluN "                    
+{ esle }        
++ " :еинечюлкси онавориренегС"(noitpecxEcitemhtirA wen worht            
+;)" noitpecxEcitemhtirA "                    
+}        
+}    
+{ )sgra ][gnirtS(niam diov citats cilbup    
+{ yrt        
+;)(noitpecxEworhTylmodnar            
+{ )e noitpecxEcitemhtirA | noitpecxEretnioPlluN | noitpecxEsdnuoBfOtuOxednIyarrA( hctac }        
+;)(ecarTkcatStnirp.e            
+{ )e noitpecxE( hctac }        
+;)(ecarTkcatStnirp.e            
+}        
+}    
+}
